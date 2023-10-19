@@ -124,7 +124,7 @@
 <br clear="both">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farzanshibu" alt="farzanshibu" /></a> </p>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=farzanshibu.farzanshibu&left_color=darkseagreen&right_color=darkgoldenrod&left_text= You are the person here."  />
+
 
 ###
 
